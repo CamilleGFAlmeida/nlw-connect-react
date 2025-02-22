@@ -6,7 +6,7 @@ Este projeto foi desenvolvido durante o intensivo de trilhas da Rocketseat e tem
 
 ## 🚀 Tecnologias Utilizadas
 
-O projeto foi desenvolvido com as seguintes tecnologias:
+Foram utilizadas as seguintes tecnologias:
 
 - **React.js**
 - **Vite**
@@ -18,7 +18,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂 Estrutura do Projeto
 
-O projeto segue uma organização modular para melhor escalabilidade e manutenção:
+O projeto segue a seguinte organização de pastas: 
 
 - **components/** → Componentes reutilizáveis da interface.
 - **pages/** → Páginas principais da aplicação.
