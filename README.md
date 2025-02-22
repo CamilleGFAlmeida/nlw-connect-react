@@ -1,4 +1,4 @@
-# NLW Connect React
+# Evento NLW Connect React
 
 ## 📍 Sobre
 
